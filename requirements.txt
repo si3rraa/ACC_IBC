@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+requests
+plotly
+kaleido
+fpdf
+pulp
+openpyxl
